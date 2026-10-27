@@ -5,7 +5,7 @@ The purpose of this project is to collect and relate data on prolific Mexican ar
 Context
 
 ## Exploratory Phase
-LINK
+[Problématique](Documentation/Problématique.md)
 
 
 
