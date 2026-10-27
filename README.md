@@ -3,6 +3,7 @@ The purpose of this project is to collect and relate data on prolific Mexican ar
 
 ### El Porfiriato
 
+## Exploratory Phase
 - [Problématique](Documentation/Problématique.md)
 - [Artists](Documentation/Artists.md)
 
