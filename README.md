@@ -4,7 +4,7 @@ The purpose of this project is to collect and relate data on prolific Mexican ar
 ### El Porfiriato
 Political and temporal context (To be specified after acquiring all artists to investigate)
 
-## Problemàtique
+## Exploratory Phase
 LINK
 
 
