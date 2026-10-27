@@ -14,7 +14,7 @@ Texte
 - Which were the most popular problematics to approach through art for them, depending on which part of Mexico where they living in? 
 - Where any manifestos or texts released by these artists adressing the unlawful government?
 
-## Information to collect
+## Information to research
 
 - Date of Birth
 - Region of the country where they lived
