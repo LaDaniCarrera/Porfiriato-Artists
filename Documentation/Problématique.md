@@ -6,7 +6,7 @@ Texte
 
 - What can be found about each individual's family tree that corelates with political views?
 - Which artists in the list studied or lived abroad during the Porfiriato?
-- How many of theese artists remained in Europe or the United States after the Porfiriato was over?
+- How many of these artists remained in Europe or the United States after the Porfiriato was over?
 - Where there any resistance groups focused on art, and where any of the subjects part of them?
 - Was there more protest art inside or outside Mexico regarding the Porfiriato?
 - Did any of these artists accepted commisions from the goverment? How many maintained a protest line of work?
