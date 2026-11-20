@@ -1,6 +1,6 @@
 ## Problématique
 
-Texte
+The time period in which this project is focusing was one of the most culturally and artistically prolific times of  Mexico’s history, which styles and ideology marked the years to come in Mexican art during a long time.The relationship between the artists involved include not only their education and the art circle of the time, but reflect on the political state of the country and the political views of each individual.  Identifying them and registering these connections could be of great use for the study and comprehension of Mexican art’s history.
 
 ## Questions de recerche
 
