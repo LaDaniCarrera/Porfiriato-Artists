@@ -4,7 +4,7 @@ The purpose of this project is to collect and relate data on prolific Mexican ar
 ## Exploratory Phase
 - [Problématique](Documentation/Problématique.md)
 - [Artists](Documentation/Artists.md)
-- [Information catalogue]()
+- [Information catalogue](Documentation/Information-catalgogue.md)
 
 ## Database
 - Concept Model
